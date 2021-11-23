@@ -1,0 +1,36 @@
+/******************* COLOR THEORY *******************/
+- when picking colors be aware of the mood of color palette
+    - red > love, energy, intensity
+    - yellow > joy, intellect, attention
+    - green > greshness, safety, growth
+    - blue >  stability, trust, serenity 
+    - purple > royalty, wealth, feminity
+
+- what you shouldn't do with clashing colors:
+    - style text and text background > instead keep it to things like logos or icons or things you really want to stand out
+
+/******************* TYPOGRAPHY *******************/
+- referring to Serif family
+    - you can tell how old a typeface would look by looking at the difference between the thickest and the thinnest parts of each letter
+    - for example: comparing the old style 'o' versus the transitional 'o' versus the modern 'o'
+
+/******************* MANAGE ATTENTION *******************/
+- establishing hierarchy
+    - through color
+    - size 
+    - layout
+    - alignment
+    - white space
+    - your audience
+
+/******************* USER EXPERIENCE DESIGN *******************/
+- UX > user experience is suppose to be invisible
+- think about these five things
+    1. simplicity 
+    2. consistency (design and functionality)
+    3. reading patterns 
+        - F pattern > starts at top left corner then it tracks the right and then flips back again]
+        - Z pattern > eyes go left to right, zigzagging > using this depends on the type of website
+    4. all platform design (mobile, desktop, tablet)
+    5. don't use your poswers for evil: ethics of design
+    
