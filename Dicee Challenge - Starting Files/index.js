@@ -14,12 +14,9 @@ function reloadPage() {
 window.onload = function () {
     //store sessionStorage info in variable
     var reloading = sessionStorage.getItem("reloading"); 
-
     //this is going to be true
     if (reloading) {
-        //this is done so if you actually press refresh, everything go back to default values
-        sessionStorage.removeItem("reloading"); 
-
+        sessionStorage.removeItem("reloading"); //setting it back to null
         myFunction();
     }
 }
