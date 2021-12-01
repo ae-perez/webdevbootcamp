@@ -1,0 +1,5 @@
+********** HOW TO INCORPORATE JQUERY INTO WEBSITES **********
+- you can downloand jquery (as it is a library)
+- or use the CDN 
+- most popular option is to use googles CDN
+- 
