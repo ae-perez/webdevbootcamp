@@ -1,10 +1,18 @@
 //alert("The js file is linked!");
 //$("h1").css('color', '#34A87C');
 
-$("h1").addClass("big-title margin-50");
+/*$("h1").click(function() {
+    $("h1").css("color","purple")
+});*/
 
-$("h1").text("Hi Alejandra");
+/*$("button").click(function() {
+    $("h1").css("color", "purple")
+});*/
 
-$("button").text("Don't Click Me");
+/*$("input").keypress(function(event) {
+    $("h1").text(event.key);
+})*/
 
-$("a").attr("href", "https://www.yahoo.com");
+$("button").on("click", function(){
+    $("h1").slideUp().slideDown().animate({opacity: 0.5});
+});
